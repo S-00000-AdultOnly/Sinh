@@ -12,7 +12,8 @@ Color, Language, and Music).
 
 .....
 
-Philosophy
+PHILOSOPHY
+
 Surface-Room-Panel (SRP)
 Sound-Video-Language (SVL)
 Task (Plagiarism)
