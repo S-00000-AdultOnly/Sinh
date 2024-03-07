@@ -10,8 +10,6 @@ For this reason the author of this announcement hopes to
 explicate a sinh genetic software for this medium (CLM -
 Color, Language, and Music).
 
-.....
-
 PHILOSOPHY
 
 Surface-Room-Panel (SRP)
