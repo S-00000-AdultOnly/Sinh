@@ -21,7 +21,7 @@ SRP-SVL
 Do not attack any person.
 TLI : Thought-Living-Imagination (TLI)
 SST : SRP-SVL-TLI (SST)
-SC: SST-CLM (SC)
+S.C.: SST-CLM (S.C.)
 Do not attack any person.
 Task : Reading ,
        Plagiarism ,
