@@ -17,6 +17,9 @@ PHILOSOPHY
 Surface-Room-Panel (SRP)
 Sound-Video-Language (SVL)
 SRP-SVL
+Thought-Living-Imagination (TLI)
+SST : SRP-SVL-TLI (SST)
+SST-CLM
 Task : Reading ,
        Plagiarism ,
        Diffuse Matrix Rendering ( Individual ,
